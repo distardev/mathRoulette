@@ -58,5 +58,5 @@ g++ src/main.cpp -o mathRoulette -lsfml-graphics -lsfml-window -lsfml-system
 
 ## 📜 Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. 
+Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
 Podés usarlo, modificarlo y compartirlo libremente, siempre que mantengas la atribución correspondiente.
