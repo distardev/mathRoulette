@@ -27,6 +27,7 @@ Todos los sprites fueron hechos a mano por mí usando **LibreSprite**. ¡100% or
 Este proyecto usa la biblioteca SFML. Puedes compilarlo tú mismo o ejecutar el binario ya compilado para Windows.
 
 **Opción 1: Ejecutar directamente (Windows)**
+
 1. Descarga el proyecto.
 
 2. Ve a la carpeta descargada.
@@ -36,6 +37,7 @@ Este proyecto usa la biblioteca SFML. Puedes compilarlo tú mismo o ejecutar el 
  == Asegúrate de que los archivos .dll de SFML estén en la misma carpeta que el .exe. ==
 
 **Opción 2: Compilar desde el código fuente**
+
 1, Abre el archivo main.cpp con tu editor favorito (Visual Studio Code recomendado).
 
 2. Compila el archivo usando un compilador compatible con SFML.
