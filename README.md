@@ -4,6 +4,8 @@
 
 > ⚠️ El juego está en desarrollo. Todavía no está completo, pero puedes probar las mecánicas actuales.
 
+                                                                                                                                                                                                                                                                                                                                       
+![Captura de pantalla del juego](assets/screenshot/mathRoulette.png)
 ## 🎮 Mecánicas actuales
 
 - Puedes elegir entre dispararte o disparar a la IA.
@@ -18,6 +20,9 @@
 - Mejorar la IA para que tome decisiones estratégicas.
 - Añadir efectos visuales y más animaciones con sprites personalizados.
 
+                                                                                                                                                                                         
+
+  ![También tiene log.](assets/screenshot/mathRoulette2.png)
 ## 🧑‍🎨 Arte
 
 Todos los sprites fueron hechos a mano por mí usando **LibreSprite**. ¡100% original!
