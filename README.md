@@ -47,9 +47,16 @@ Este proyecto usa la biblioteca SFML. Puedes compilarlo tú mismo o ejecutar el 
 - C++17 o superior
 - SFML 2.5 o superior
 
+
 ## 📦 Instalación rápida (Linux)
 
 ```bash
 sudo apt install g++ libsfml-dev
 g++ src/main.cpp -o mathRoulette -lsfml-graphics -lsfml-window -lsfml-system
 ./mathRoulette
+```
+
+## 📜 Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. 
+Podés usarlo, modificarlo y compartirlo libremente, siempre que mantengas la atribución correspondiente.
