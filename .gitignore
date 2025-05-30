@@ -1,0 +1,41 @@
+# Archivos de compilación
+*.exe
+*.out
+*.o
+*.obj
+*.gch
+*.pch
+*.dll
+*.lib
+*.so
+*.a
+*.dylib
+
+# Archivos intermedios y temporales
+*.log
+*.tmp
+*.cache
+*.bak
+*.swp
+*.swo
+
+# Archivos de Visual Studio Code
+.vscode/
+
+# Archivos de CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Directorios de build
+build/
+dist/
+bin/
+Debug/
+Release/
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
